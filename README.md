@@ -4,3 +4,5 @@
 
 ![LOGO](![Fotor_AI](https://user-images.githubusercontent.com/96700574/226493949-6aab5a93-3f7b-4b9a-bc97-ebae07630fe3.png)
 
+Soy Capitan Jander, Me especializo en la programcion: como Javascript, Java, HTML, CSS; No solo eso soy filosofico y he estudiado Diseño Grafico y se dibujar 
+
